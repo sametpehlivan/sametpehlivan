@@ -14,13 +14,13 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,java,js,ts,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts,cpp,php&theme=dark" />
 </p>
 
 ## Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,spring,postgres,sqlite,docker,git,github,linux,visualstudio,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,spring,postgres,sqlite,laravel,docker,git,github,linux,visualstudio,vscode&theme=dark" />
 </p>
 
 ## GitHub Stats
