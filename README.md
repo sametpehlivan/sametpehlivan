@@ -43,8 +43,3 @@
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sametpehlivan\&style=flat-square\&color=blueviolet)
-
-</div>
