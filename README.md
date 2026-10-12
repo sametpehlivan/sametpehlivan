@@ -14,7 +14,7 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts,cpp&theme=dark" />
 </p>
 
 ## Tools & Technologies
